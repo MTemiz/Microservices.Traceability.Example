@@ -16,11 +16,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Publisher", "Publisher", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{E9F82F1F-6183-4BA3-AA34-F8B524E3AC24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{AD4B21CF-F90F-4C68-BC52-A9F4C7399CF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Message.Broker.Scenario\Consumer\Consumer.csproj", "{AD4B21CF-F90F-4C68-BC52-A9F4C7399CF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "Publisher\Publisher.csproj", "{14153B48-06FB-4C64-9414-DDD63713945A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "Message.Broker.Scenario\Publisher\Publisher.csproj", "{14153B48-06FB-4C64-9414-DDD63713945A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{EE5D534C-5839-4EAA-8817-E18CB3CD5440}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Message.Broker.Scenario\Shared\Shared.csproj", "{EE5D534C-5839-4EAA-8817-E18CB3CD5440}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
